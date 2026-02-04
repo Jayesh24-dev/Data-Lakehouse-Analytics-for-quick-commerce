@@ -148,3 +148,6 @@ bash Bash_scripts/reset.bash
 - `Jars/` — Delta Lake and Kafka dependencies  
 
 ---
+=======
+# Data-Lakehouse-Analytics-for-quick-commerce
+>>>>>>> 8abcaa980517c3117bdfcdf21a4da2d0dde9b118
